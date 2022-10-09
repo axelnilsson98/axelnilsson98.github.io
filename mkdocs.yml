@@ -3,7 +3,7 @@
 site_name: Förslag för inköp till AD fontes 
 
 theme: 
-    name: mkdocs  #readthedocs # material
+    name: readthedocs  #readthedocs # material
     highlightjs: true  # only for readthedocs
 
-site_url: https://username.github.io
+site_url: https://axelnilsson98.github.io
