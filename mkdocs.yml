@@ -1,6 +1,6 @@
 # mkdocs.yml -- MkDocs configuration, all *.md files relative to docs/
 
-site_name: Förslag ljudsystem
+site_name: Förslag för inköp till AD fontes 
 
 theme: 
     name: mkdocs  #readthedocs # material
