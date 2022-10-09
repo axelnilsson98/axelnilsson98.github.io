@@ -22,4 +22,4 @@
 ## Extra
 + Reverb https://www.thomann.de/se/roland_vt_4.htm                                          - 3099 kr
 
-### Totalt                                                                                   - 25 473 kr
+## Totalt                                                                                   - 25 473 kr
