@@ -1,0 +1,9 @@
+# mkdocs.yml -- MkDocs configuration, all *.md files relative to docs/
+
+site_name: Förslag ljudsystem
+
+theme: 
+    name: mkdocs  #readthedocs # material
+    highlightjs: true  # only for readthedocs
+
+site_url: https://username.github.io
