@@ -7,3 +7,8 @@ theme:
     highlightjs: true  # only for readthedocs
 
 site_url: https://axelnilsson98.github.io
+
+nav:
+    - Förslag 1: sugestion1.md
+    - Förslag 2: sugestion2.md
+    - Förslag 3: sugestion3.md
