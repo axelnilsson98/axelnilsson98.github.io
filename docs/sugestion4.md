@@ -1,5 +1,5 @@
-# Förslag 3
-+ Passiva högtalare som hänger i taket med 4 system trådad in-ear medhörning
+# Förslag 4
++ Passiva högtalare som hänger i taket med 2 system trådlös in-ear medhörning
 
 ## Högtalare
 + [2x hängande högtalare](https://www.thomann.de/se/ev_zlx_12.htm)                             - 3444 kr
