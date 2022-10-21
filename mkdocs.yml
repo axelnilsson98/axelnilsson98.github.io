@@ -9,6 +9,7 @@ theme:
 site_url: https://axelnilsson98.github.io
 
 nav:
-    - Förslag 1: sugestion1.md
-    - Förslag 2: sugestion2.md
-    - Förslag 3: sugestion3.md
+    - Passiva högtalare medhörning på golvet: sugestion1.md
+    - Aktiva högtalare medhörning på golvet: sugestion2.md
+    - Passiva högtalare trådad iem: sugestion3.md
+    - Passiva högtalare trådlös iem: sugestion4.md
